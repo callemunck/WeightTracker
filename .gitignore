@@ -1,0 +1,10 @@
+# Ignore sensitive files
+config.json
+.env
+
+# Ignore all files in a specific directory
+/logs/
+
+# Ignore specific file types
+*.log
+*.pyc
